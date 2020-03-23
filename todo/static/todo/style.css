@@ -1,0 +1,27 @@
+    body {
+        background: rgba(44, 62, 80, .8);
+        font-family: 'Oswald', 'Futura', sans-serif;
+    }
+    
+    #content {
+        background: rgb(82, 82, 62);
+    }
+    
+    #content>h2 {
+        font-size: 18px;
+        text-align: center;
+        padding-top: 0;
+    }
+    
+    .todo-completed {
+        text-decoration: line-through;
+        background-color: green;
+    }
+    
+    .list-group-item {
+        color: black;
+    }
+    
+    label {
+        color: red;
+    }
