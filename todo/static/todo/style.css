@@ -1,17 +1,22 @@
-    #content>h2 {
-        font-size: 18px;
-        text-align: center;
-        padding-top: 0;
-    }
-    
-    .todo-completed {
-        text-decoration: line-through;
-    }
-    
-    .list-group-item {
-        color: black;
-    }
-    
-    label {
-        color: red;
-    }
+   body {
+       background-color: darkgray;
+   }
+   
+   #content>h2 {
+       font-size: 18px;
+       text-align: center;
+       padding-top: 0;
+   }
+   
+   .todo-completed {
+       text-decoration: line-through;
+   }
+   
+   .list-group-item {
+       color: black;
+       background-color: grey;
+   }
+   
+   label {
+       color: red;
+   }
